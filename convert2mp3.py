@@ -6,8 +6,6 @@ from halo import Halo
 import sys, pytube, os, halo
 
 
-
-done = 'false'
 def banner():
 	print ("""  ______                                 ______             ________
  / _____)                           _   (_____ \           (_______/
